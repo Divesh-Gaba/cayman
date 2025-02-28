@@ -39,7 +39,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Divesh-Gaba/Logistic-Regression-Model-on-Leads-Data)
 
 <center>
-    <img src="assets/img/leads.png" width="800" height="400"/>
+    <img src="assets/css/leads.png" width="800" height="400"/>
 </center>
 
 ---
