@@ -61,8 +61,8 @@
 
 ## Supply Chain Analytics
 
-1. Used Python to clean th data for further analysis.
-2. Imported cleaned data into MySQL Workbench and analyzed different elements of the supply chain in Pit Mining Industry.
+1. Used Python to clean th data for further analysis and created master tables containing all of the important variables.
+2. Imported cleaned data into MySQL Workbench and analyzed different elements of the supply chain in Pit Mining Industry i.e. Total Production Payload in tons, Total Transported Payload in tons etc.
 3. Used Tableau to visualize the performance of supply chain.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Divesh-Gaba/Supply-Chain-Analytics)
