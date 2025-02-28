@@ -1,123 +1,62 @@
+# Data Analyst Portfolio
+
+## Finance and Risk Analytics in Stock Market
+
+1. Collated multiple datasets into a single DataFrame
+2. Analyzed various stock market related risk parameters like annualized risk, beta values, CAPM and more.
+3. Built executive report in Powerpoint and visualization in PowerBi.
+4. Helped two investors to build a Portfolio Management Strategies for long term business goals.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Divesh-Gaba/Finance-and-Risk-Analytics)
+
+<center>
+    <img src="assets/img/stock.png" width="800" height="400"/>
+</center>
+
 ---
-layout: default
+
+## Linear Regression Model to predict the demand of bike sharing in USA
+
+1. Built a Multiple Regression Model to measure the relation between demand of bikes and other varaibles.
+2. Made recommendations to boost the demand and increase revenue.
+3. Applied Exploratory Data Analysis to understand the data and find insights.
+4. Used Matplotlib and Seaborn to visualize the relation between the target variable and predictor variable.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Divesh-Gaba/Bike-Sharing-Linear-Regression-Project)
+
+<center>
+    <img src="assets/img/tareq-ismail-iCIEg2SX2IA-unsplash.jpg" width="800" height="400"/>
+</center>
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Logistic Regression Model on Leads Generation
 
-[Link to another page](./another-page.html).
+1. Developed a predictive model to identify customers with high chances of conversion, enabling targeted retention strategies.
+2. Used Exploratory Data Analysis to clean the data for analysis.
+3. Used different evaluation metrics to check the performance of the model.
 
-There should be whitespace between paragraphs.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Divesh-Gaba/Logistic-Regression-Model-on-Leads-Data)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<center>
+    <img src="assets/img/leads.png" width="800" height="400"/>
+</center>
 
-# Header 1
+---
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## PowerBI project on Report Building Automation
 
-## Header 2
+1. Used multiple applications to automate the process of Report Building in Power BI.
+2. Built rules in Outlook to transfer all of the field agent reports to Google Drive.
+3. Used Google Cloud Platform to create an API to establish connection between Google Drive and PowerBI.
+4. Built Reports in PowerBI using the field agents’ report from Outlook.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Divesh-Gaba/Power-BI-Report-Building-Automation)
 
-### Header 3
+<center>
+    <img src="assets/img/reportautomation.jpg" width="800" height="400"/>
+</center>
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+---
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## Supply Chain Analytics
