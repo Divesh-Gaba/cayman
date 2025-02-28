@@ -63,6 +63,7 @@
 
 1. 
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Divesh-Gaba/Supply-Chain-Analytics)
 
 <center>
     <img src="assets/css/supply chain.jpg" width="800" height="400"/>
