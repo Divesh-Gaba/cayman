@@ -10,7 +10,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Divesh-Gaba/Finance-and-Risk-Analytics)
 
 <center>
-    <img src="assets/img/stock.png" width="800" height="400"/>
+    <img src="assets/css/stock.png" width="800" height="400"/>
 </center>
 
 ---
@@ -25,7 +25,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Divesh-Gaba/Bike-Sharing-Linear-Regression-Project)
 
 <center>
-    <img src="assets/img/tareq-ismail-iCIEg2SX2IA-unsplash.jpg" width="800" height="400"/>
+    <img src="assets/css/tareq-ismail-iCIEg2SX2IA-unsplash.jpg" width="800" height="400"/>
 </center>
 
 ---
@@ -54,9 +54,16 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Divesh-Gaba/Power-BI-Report-Building-Automation)
 
 <center>
-    <img src="assets/img/reportautomation.jpg" width="800" height="400"/>
+    <img src="assets/css/reportautomation.jpg" width="800" height="400"/>
 </center>
 
 ---
 
 ## Supply Chain Analytics
+
+1. 
+
+
+<center>
+    <img src="assets/css/supply chain.jpg" width="800" height="400"/>
+</center>
